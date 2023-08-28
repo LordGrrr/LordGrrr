@@ -7,7 +7,7 @@
 
 =======================================================================================
 =======================================================================================
-**Attention cette liste en rempli de personnes hautement toxique** 
+**Attention cette liste en rempli de personnes hautements toxiques** 
 ils sont les **4B**:
 * Béstiale
 * Bâtard
