@@ -12,7 +12,7 @@ Ils sont les **4B**:
 * Barbare
 * Bélliqueux
   
-**Death list** of Laurent BEYSSON coming from 2016  from 7 rue de la Fidélité 75010 Paris:  
+:skull: **Death list** :skull: of Laurent BEYSSON coming from 2016  from 7 rue de la Fidélité 75010 Paris:  
   
 **Blowfactory:**  
 ![PG](https://github.com/LordGrrr/LordGrrr/assets/134517577/be8a56a2-e7a9-4933-b928-6c56ffe69bcb)  _Paula Guastella_ :skull::skull:  
