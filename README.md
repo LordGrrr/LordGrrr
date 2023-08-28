@@ -9,7 +9,7 @@
 Ils sont les **4B**:
 * Béstiale _Propulsé par Nature_
 * Bâtard _Mauvais mélange_
-* Barbare _Résultante (sauvagerie organisée)_
+* Barbare _Sauvagerie organisée_
 * Bélliqueux _Qui aime la guerre_
   
 :skull: **Death list** :skull: of :godmode: Laurent BEYSSON :godmode: coming from 2016  from 7 rue de la Fidélité 75010 Paris:  
