@@ -4,28 +4,9 @@
 
 ![cI loran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)   
 
+![BF](https://github.com/LordGrrr/LordGrrr/assets/134517577/e6407ff5-bf53-43b5-a130-925464beb499)
 
-## **Attention cette liste en rempli de personnes hautements toxiques** 
-Ils sont les **4B**:
-* **B**éstiale _Propulsé par Nature_
-* **B**âtard _Mauvais mélange_
-* **B**arbare _Sauvagerie organisée_
-* **B**élliqueux _Qui aime la guerre_
-  
-:skull: **Death list** :skull: of :godmode: Laurent BEYSSON :godmode: coming from 2016  from 7 rue de la Fidélité 75010 Paris: 
 
-![EM](https://github.com/LordGrrr/LordGrrr/assets/134517577/eeffd42d-22cc-4281-984c-c0371dfc1d8b) _DuCon_ :skull::skull::skull::skull:  
-**Warning: Suspected of killing children**
-
-**Fink (alias https://fannyrollot.fr/) son poto et sa mamam et plus encore:**   
-![263734029-0ce23877-4a85-4f9c-b67b-be2c5ed26ded](https://github.com/LordGrrr/LordGrrr/assets/134517577/1667a1b1-cc49-4903-8089-dbe24178a53b) _Renaud Hericord_ :skull::skull:  
-![GG](https://github.com/LordGrrr/LordGrrr/assets/134517577/27869a54-35f6-486e-b4f3-089829c04811) _Gregory Geminiani_  :poop::poop:  
-![JH](https://github.com/LordGrrr/LordGrrr/assets/134517577/ff2e6abd-9512-407b-ba59-d13400b76a90)  _Jacqueline Hericord_ :skull::skull:  
-![LH](https://github.com/LordGrrr/LordGrrr/assets/134517577/5fefcc56-d6d3-411e-8c6a-aa2e170cc953) _Laurent Hericord_ :skull::skull:  
-
-**AC3**  
-![MC](https://github.com/LordGrrr/LordGrrr/assets/134517577/e0186d03-92d0-45d8-ba56-31de25b6fb91) _Max Coisne_ :skull::skull:  
-![vc](https://github.com/LordGrrr/LordGrrr/assets/134517577/888393fc-54ca-4ace-aeeb-3d4ba3d2d35c) _Vincent Coutelin_ :poop::skull::skull::poop:  
 
 
 
