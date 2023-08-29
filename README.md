@@ -7,10 +7,10 @@
 
 ## **Attention cette liste en rempli de personnes hautements toxiques** 
 Ils sont les **4B**:
-* Béstiale _Propulsé par Nature_
-* Bâtard _Mauvais mélange_
-* Barbare _Sauvagerie organisée_
-* Bélliqueux _Qui aime la guerre_
+* **B**éstiale _Propulsé par Nature_
+* **B**âtard _Mauvais mélange_
+* **B**arbare _Sauvagerie organisée_
+* **B**élliqueux _Qui aime la guerre_
   
 :skull: **Death list** :skull: of :godmode: Laurent BEYSSON :godmode: coming from 2016  from 7 rue de la Fidélité 75010 Paris: 
 
