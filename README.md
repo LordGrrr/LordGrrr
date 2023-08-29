@@ -14,6 +14,8 @@ Ils sont les **4B**:
   
 :skull: **Death list** :skull: of :godmode: Laurent BEYSSON :godmode: coming from 2016  from 7 rue de la Fidélité 75010 Paris: 
 
+![EM](https://github.com/LordGrrr/LordGrrr/assets/134517577/eeffd42d-22cc-4281-984c-c0371dfc1d8b) _DuCon_ :skull::skull::skull::skull: 
+
 **Fink (alias https://fannyrollot.fr/) son poto et sa mamam et plus encore:**   
 ![263734029-0ce23877-4a85-4f9c-b67b-be2c5ed26ded](https://github.com/LordGrrr/LordGrrr/assets/134517577/1667a1b1-cc49-4903-8089-dbe24178a53b) _Renaud Hericord_ :skull::skull:  
 ![GG](https://github.com/LordGrrr/LordGrrr/assets/134517577/27869a54-35f6-486e-b4f3-089829c04811) _Gregory Geminiani_  :poop::poop:  
