@@ -5,6 +5,8 @@
 ![cI loran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)   
 
 ![BF](https://github.com/LordGrrr/LordGrrr/assets/134517577/e6407ff5-bf53-43b5-a130-925464beb499)
+  
+**@mon_poto_Chenault: Cavalier prend la Reine!!**
 
 
 
