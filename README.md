@@ -3,7 +3,7 @@
 ![alfred Korzybski](https://github.com/LordGrrr/LordGrrr/assets/134517577/4b37aab6-7a69-43ef-93ad-2eb65e7e5670)  
 
 ![cI loran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)   
-**Je [space] dois [space] ne [space] pas [avec espace entre chaque mots] POINT....[Silence à travers l'espace dans lequel j'aime déambulé tel une bulle qui bulle sa bulle sans débuller]**  
+**Je** [space] **dois** [space] **ne** [space] **pas** [avec espace entre chaque mots] **POINT....** [Silence à travers l'espace dans lequel j'aime déambulé tel une bulle qui bulle sa bulle sans débuller.]**  
   
 ![BF](https://github.com/LordGrrr/LordGrrr/assets/134517577/e6407ff5-bf53-43b5-a130-925464beb499)
   
