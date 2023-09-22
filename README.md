@@ -1,6 +1,5 @@
+![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)   
 
-![cI![41586_2016_Article_BFnature19758_Fig1_HTML](https://github.com/LordGrrr/LordGrrr/assets/134517577/fee11e17-d3df-46e5-88d0-ead9c2aa12b6)  
- loran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)   
   
 ![avt-jean-pierre-petit-8090](https://github.com/LordGrrr/LordGrrr/assets/134517577/925d2cc0-31ee-43f0-8a35-e0a72b65a88a)
 ![download](https://github.com/LordGrrr/LordGrrr/assets/134517577/49341316-8175-448b-bfb0-5a40cc38ddeb)
@@ -20,3 +19,5 @@
 
 ![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)
 
+##
+![41586_2016_Article_BFnature19758_Fig1_HTML](https://github.com/LordGrrr/LordGrrr/assets/134517577/ad71f8f5-c1c2-4527-bde6-b96eb66b0bca)  
