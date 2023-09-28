@@ -24,7 +24,7 @@
 
 ##
 
-![Femelle   Male drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/24b80235-7891-4c0e-aa41-f9e063cc58ab)
+![Femelle   Male drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/fa495758-02dd-44cb-90ae-8eed76745b09)
 
 
 
