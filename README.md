@@ -15,8 +15,6 @@
 
 ##
 
-
-
 ![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)
 
 ##
@@ -26,5 +24,8 @@
 
 ![Femelle   Male drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/fa495758-02dd-44cb-90ae-8eed76745b09)
 
+##
+
+![YOR22 drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/bf54e7c1-2550-4606-ad78-4e9512f13a49)
 
 
