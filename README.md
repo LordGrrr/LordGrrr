@@ -20,9 +20,6 @@
 ##
 ![41586_2016_Article_BFnature19758_Fig1_HTML](https://github.com/LordGrrr/LordGrrr/assets/134517577/ad71f8f5-c1c2-4527-bde6-b96eb66b0bca)  
 
-##
-![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/47e4314d-5d64-4e6f-a039-7feeb3868cd6)
-
 
 ##
 ![Femelle   Male drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/a3bd0944-7298-4fbf-ae0d-01609376c721)
@@ -30,6 +27,9 @@
 
 ##
 ![YOR22 drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/10027a33-1c0b-4170-af7b-10b8dd1367a6)
+
+##
+![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/47e4314d-5d64-4e6f-a039-7feeb3868cd6)
 
 
 ##
