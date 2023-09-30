@@ -21,7 +21,8 @@
 ![41586_2016_Article_BFnature19758_Fig1_HTML](https://github.com/LordGrrr/LordGrrr/assets/134517577/ad71f8f5-c1c2-4527-bde6-b96eb66b0bca)  
 
 ##
-![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/aeaf882f-b07c-4155-8dc7-4baecd44dce2)
+![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/2fd10213-009f-42e9-8132-f4db2a1072a5)
+
 
 ##
 ![Femelle   Male drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/a3bd0944-7298-4fbf-ae0d-01609376c721)
