@@ -14,7 +14,6 @@
 [**Staley Kubrick**](https://en.wikipedia.org/wiki/Stanley_Kubrick)  and  [**Arthur C. Clarke**](https://en.wikipedia.org/wiki/Arthur_C._Clarke)  
 
 # Robotics
-##
 ![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)
 
 ##
