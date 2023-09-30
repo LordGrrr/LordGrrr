@@ -13,11 +13,13 @@
 ![download](https://github.com/LordGrrr/LordGrrr/assets/134517577/beaaccb8-cab4-4eb4-b3ea-9822260aca5b)  
 [**Staley Kubrick**](https://en.wikipedia.org/wiki/Stanley_Kubrick)  and  [**Arthur C. Clarke**](https://en.wikipedia.org/wiki/Arthur_C._Clarke)  
 
+##
+![41586_2016_Article_BFnature19758_Fig1_HTML](https://github.com/LordGrrr/LordGrrr/assets/134517577/ad71f8f5-c1c2-4527-bde6-b96eb66b0bca)  
+
 # Robotics
 ![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)
 
-##
-![41586_2016_Article_BFnature19758_Fig1_HTML](https://github.com/LordGrrr/LordGrrr/assets/134517577/ad71f8f5-c1c2-4527-bde6-b96eb66b0bca)  
+
 
 
 ##
