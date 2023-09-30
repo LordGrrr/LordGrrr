@@ -19,7 +19,9 @@
 # Robotics
 ![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)
 
+##
 
+![Inter-zone drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/8e403cb9-9389-4304-8fc1-5c4f0eedfd4a)
 
 
 ##
@@ -34,6 +36,4 @@
 ![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/47e4314d-5d64-4e6f-a039-7feeb3868cd6)
 
 
-##
 
-![Inter-zone drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/8e403cb9-9389-4304-8fc1-5c4f0eedfd4a)
