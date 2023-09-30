@@ -29,8 +29,8 @@
 
 
 ##
+![YOR22 drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/10027a33-1c0b-4170-af7b-10b8dd1367a6)
 
-![YOR22 drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/9e200442-83bb-49eb-906e-fd9b18ddc76e)
 
 ##
 
