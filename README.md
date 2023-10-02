@@ -20,8 +20,8 @@
 ![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)
 
 ##
+![Inter-zone drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/e74209a2-c1e9-42d4-8f4a-554baba41ea1)
 
-![Inter-zone drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/8e403cb9-9389-4304-8fc1-5c4f0eedfd4a)
 
 ##
 ![YOR22 drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/d4b73815-66b4-4721-8b6e-7b4b1ee7b5d4)
