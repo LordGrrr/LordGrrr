@@ -29,11 +29,9 @@
 ![Femelle   Male drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/a3bd0944-7298-4fbf-ae0d-01609376c721)
 
 
-
-
-
 ##
-![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/47e4314d-5d64-4e6f-a039-7feeb3868cd6)
+
+![EGO2 drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/87c6dec3-3953-4598-b12f-c90319e5e432)
 
 
 
