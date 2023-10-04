@@ -34,7 +34,8 @@
 
 ##
 
-![EGO2 drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/d6d68dd8-41db-4cf6-b807-1eab44685ec0)
+![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/7ff53e8a-def2-4678-94ea-0d0cd9d6698c)
+
 
 
 
