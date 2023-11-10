@@ -1,6 +1,6 @@
 ![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)   
 ![14524982_1774419689496792_5118348960332451726_o](https://github.com/LordGrrr/LordGrrr/assets/134517577/e4d7abe3-62dd-4f2b-95fd-3a615f6ab928)  
-Loran, Paula and Fede  
+Loran, Paula and Fede. Alias **Nexus Origin**
 
   
 ![avt-jean-pierre-petit-8090](https://github.com/LordGrrr/LordGrrr/assets/134517577/925d2cc0-31ee-43f0-8a35-e0a72b65a88a)
