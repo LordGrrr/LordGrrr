@@ -10,10 +10,12 @@
 
 [**Jean-Pierre Petit**](https://www.jp-petit.org/NUCLEAIRE/ITER/ITER_fusion_non_controlee/Chronique_faillite_annoncee_long.pdf), [**Jean-Marie Soriaux**](https://fr.wikipedia.org/wiki/G%C3%A9om%C3%A9trie_symplectique) and **Alfred Korzybski**.  
 
-
 ##
 ![download](https://github.com/LordGrrr/LordGrrr/assets/134517577/beaaccb8-cab4-4eb4-b3ea-9822260aca5b)  
 [**Staley Kubrick**](https://en.wikipedia.org/wiki/Stanley_Kubrick)  and  [**Arthur C. Clarke**](https://en.wikipedia.org/wiki/Arthur_C._Clarke)  
+##
+![weAreAllAstronauts](https://github.com/LordGrrr/LordGrrr/assets/134517577/47bb8334-4c52-48d8-a89b-72871bfbb1dd)  
+[Blue Dot VI](https://youtu.be/u1Bh25ftq90?feature=shared)  
 
 ##
 ![41586_2016_Article_BFnature19758_Fig1_HTML](https://github.com/LordGrrr/LordGrrr/assets/134517577/ad71f8f5-c1c2-4527-bde6-b96eb66b0bca)  
