@@ -1,7 +1,3 @@
-https://www.facebook.com/  
-login: loranbey@gmail.com  
-pwd: Hjepamwxc07  
-
 https://www.desmos.com/calculator/qullxqihgr  
 ![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)   
 
