@@ -20,7 +20,8 @@ https://www.desmos.com/calculator/qullxqihgr
 ![41586_2016_Article_BFnature19758_Fig1_HTML](https://github.com/LordGrrr/LordGrrr/assets/134517577/ad71f8f5-c1c2-4527-bde6-b96eb66b0bca)  
 
 # Robotics
-![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)
+![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)  
+https://fr.wikipedia.org/wiki/Denis_Le_Bihan
 
 ##
 ![Inter-zone drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/e74209a2-c1e9-42d4-8f4a-554baba41ea1)
