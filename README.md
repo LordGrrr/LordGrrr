@@ -21,7 +21,8 @@ https://www.desmos.com/calculator/qullxqihgr
 
 # Robotics
 ![Brainstem-and-Cerebellum-1](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3097419-635b-4a1a-877a-b432bd73f255)  
-https://fr.wikipedia.org/wiki/Denis_Le_Bihan
+credit: https://www.gregadunn.com/category/microetchings/
+🇫🇷 https://fr.wikipedia.org/wiki/Denis_Le_Bihan
 
 ##
 ![Inter-zone drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/e74209a2-c1e9-42d4-8f4a-554baba41ea1)
