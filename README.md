@@ -36,6 +36,10 @@ credit: https://www.gregadunn.com/category/microetchings/
 ##
 ![Femelle   Male drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/a3bd0944-7298-4fbf-ae0d-01609376c721)
 
+##
+![COMinSync drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/1665162a-ae7d-43ac-850e-e9ae16988ef4)
+
+
 
 ##
 
