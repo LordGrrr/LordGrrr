@@ -42,7 +42,8 @@ credit: https://www.gregadunn.com/category/microetchings/
 ![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/7ff53e8a-def2-4678-94ea-0d0cd9d6698c)
 
 ##
-![COMinSync drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/ee23631a-9593-4712-a49d-b15799797dc3)
+![COMinSync drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/1d09315a-8bf7-4c61-9cb7-fb151bdfa87c)
+
 
 
 
