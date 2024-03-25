@@ -51,6 +51,8 @@ credit: https://www.gregadunn.com/category/microetchings/
 ##
 ![algo-reduction didactic](https://github.com/LordGrrr/LordGrrr/assets/134517577/9c4fd0cb-e21a-4add-8d4c-8cc3cb6e0966)
 ##
+![(r2d2) drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/b3df0412-2dad-46c0-ae28-90d71f75f575)
+##
 ![curves drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/aa9191f7-f5bd-42b4-85a5-f15c30be9c79)
 ##
 ![TempsZero drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/06b3a9d0-7b83-464b-a312-8e3f101e24fa)
