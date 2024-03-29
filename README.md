@@ -41,9 +41,6 @@ credit: https://www.gregadunn.com/category/microetchings/
 
 ![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/7ff53e8a-def2-4678-94ea-0d0cd9d6698c)
 
-##
-
-![COMinSync drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/b4068193-5849-4fcb-a51a-63f64cb480ba)
 
 ##
 ![Canvas_A P A drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/c3ff7d72-445a-4efd-8669-beff1e154826)
@@ -54,6 +51,7 @@ credit: https://www.gregadunn.com/category/microetchings/
 ##
 ![curves drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/aa9191f7-f5bd-42b4-85a5-f15c30be9c79)
 ##
-![TempsZero drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/06b3a9d0-7b83-464b-a312-8e3f101e24fa)
+![TempsZero drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/32c05ec6-b8dc-47b8-b0ca-9a861fbff3fc)
+
 ##
 ![les matrices humaines drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/9d156b10-48cb-404b-a37a-a574a866f8c0)
