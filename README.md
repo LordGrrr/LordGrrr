@@ -56,3 +56,27 @@ credit: https://www.gregadunn.com/category/microetchings/
 
 ##
 ![les matrices humaines drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/9d156b10-48cb-404b-a37a-a574a866f8c0)
+
+##
+![Continium d_analyses drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/0ec298a1-b27e-46ee-aec0-b58c1fa31b1e)  
+
+##
+![Coucou drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/0bd2bb19-2480-4579-887e-a364ba15a4a6)  
+![Real_virtual_context drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/a4933bb9-397f-4737-a841-7e76d7eb5b00)
+
+
+##
+![la main drawio (1)](https://github.com/LordGrrr/LordGrrr/assets/134517577/8fa5a05f-d4ee-480a-b06c-f4af105f8acb)
+
+##
+![OFFRE1DEMANDE drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/62b55219-a0f9-4b17-9a09-c8dddfb83dfe)
+![Nexus00 drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/5bcd463d-3782-4654-9bdc-38bc99129d8a)
+
+##
+![Open skies drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/aba9427f-3cf6-443a-9b58-09dd8448309e)
+
+##
+![Tri-phase drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/f92c7ade-2c2a-4193-af9f-67c0c5c14060)
+
+
+
