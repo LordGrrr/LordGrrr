@@ -3,41 +3,38 @@
 > [Home](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki)  
 > [The Threads of Conscience](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/I.-The-Threads-of-Conscience)  
 > [Géométrie Nexus Spirit](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/II.-G%C3%A9om%C3%A9trie--Nexus-Spirit)    
-> [Les fils d'histoire](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/III.-Les-fils-d'histoire)
-> [Les Jeux](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/IV.-Les-Jeux)
-> [Art Étrange &amp; Méthode Bizarre](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/V.-Art-%C3%89trange-&amp;-M%C3%A9thode-Bizarre)
-> [La Psycho-kinétique](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/VI.-La-Psycho%E2%80%90kin%C3%A9tique)
+> [Les fils d'histoire](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/III.-Les-fils-d'histoire)  
+> [Les Jeux](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/IV.-Les-Jeux)  
+> [Art Étrange &amp; Méthode Bizarre](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/V.-Art-%C3%89trange-&amp;-M%C3%A9thode-Bizarre)  
+> [La Psycho-kinétique](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/VI.-La-Psycho%E2%80%90kin%C3%A9tique)  
 > [SECURITY](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7SECURITY)  
 > [The App](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7The-App) 
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
-
+ 
 [Cube-Kicker](https://github.com/LordGrrr/Cube-Kicker)
-> [Home](https://github.com/LordGrrr/Cube-Kicker/wiki)
-> [Scalar Structures](https://github.com/LordGrrr/Cube-Kicker/wiki/II.-Scalar-Structures)
-      <blockquote style="color:rgb(34,34,34);margin:0px 0px 0px 40px;border:none;padding:0px"><a href="" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Cube-Kicker/wiki&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw30cGFqe6WgocP1VYCeLWDe">Home<br></a><a href="" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Cube-Kicker/wiki/II.-Scalar-Structures&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw261PHjO6Y4H_G_qDS60cOD">Scalar Structures<br></a><a href="https://github.com/LordGrrr/Cube-Kicker/wiki/III.-A.P.A.-Virtual-Canvas-(CORE)" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Cube-Kicker/wiki/III.-A.P.A.-Virtual-Canvas-(CORE)&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw21wf1opl5lmqfNItnlsWEU">A.P.A. Virtual Canvas (CORE)<br></a></blockquote>
-      <blockquote style="color:rgb(34,34,34);margin:0px 0px 0px 40px;border:none;padding:0px"><a href="https://github.com/LordGrrr/Cube-Kicker/wiki/IV.-Core-Engine-Data-Structure" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Cube-Kicker/wiki/IV.-Core-Engine-Data-Structure&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw1pjFvmkKXPRbHB-YVkJe2M">Core Engine Data Structure</a></blockquote>
-      <blockquote style="color:rgb(34,34,34);margin:0px 0px 0px 40px;border:none;padding:0px"><a href="http://semantic%20engine%20research/" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=http://semantic%2520engine%2520research/&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw2EsBzHgBkOIJlGv15MuhqU">Semantic Engine Research<br></a><a href="https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABAnnexe%C2%BB" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Cube-Kicker/wiki/%25C2%25ABAnnexe%25C2%25BB&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw1HJ4BV2Bwkb_OpPJfxkD1r">«Annexe»</a></blockquote>
-      <blockquote style="color:rgb(34,34,34);margin:0px 0px 0px 40px;border:none;padding:0px"><a href="https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABTrucs-en-Vrac%C2%BB" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Cube-Kicker/wiki/%25C2%25ABTrucs-en-Vrac%25C2%25BB&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw0HZ8Xr1nOtILVtF-kwtgA9">«Trucs en Vrac»</a><br></blockquote>
-      <div style="color:rgb(34,34,34)"><br></div>
-      <div style="color:rgb(34,34,34)"><b>III.&nbsp;<a href="https://github.com/LordGrrr/Bleeding_in_Paris" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw1DWK9Z0_b7b6f_67ufdQ3y">Bleeding in Paris</a></b><br></div>
-      <blockquote style="color:rgb(34,34,34);margin:0px 0px 0px 40px;border:none;padding:0px">
-         <div><a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw1a8moZVJP3PFnqeEXWbaTj">Home</a></div>
-         <a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw01-si5GFfVFhPiHGRC7P54">...Last news</a>
-      </blockquote>
-      <blockquote style="color:rgb(34,34,34);margin:0px 0px 0px 40px;border:none;padding:0px"><a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw1rfIPFamNlBzBz5Cd1fINe">Avant Propos</a></blockquote>
-      <blockquote style="color:rgb(34,34,34);margin:0px 0px 0px 40px;border:none;padding:0px">
-         <a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/III.-Contre-Mesures" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/III.-Contre-Mesures&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw0LC65A35iH8M92ROcxNT2T">Contre Mesures</a>
-         <div><a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/IV.-M%C3%A9thode-Bizarre" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/IV.-M%25C3%25A9thode-Bizarre&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw370GugwJXhMRcGTooXiMA1">Méthode Bizarre</a></div>
-         <div><a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/V.-Questionnement-social-exempt-d'Eug%C3%A9nisme" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/V.-Questionnement-social-exempt-d'Eug%25C3%25A9nisme&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw1cXcOcRn5wZPk1vmVhiWUJ">Questionnement social exempt d'Eugénisme</a></div>
-         <div><a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VI.-Winamax-ou-la-Destruction-du-buisness-de-demain" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VI.-Winamax-ou-la-Destruction-du-buisness-de-demain&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw1Caq4itTqsJ0bN4jtUHaNQ">Winamax ou la Destruction du business de demain</a></div>
-         <div><a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VII.-D%C3%A9cagone-de-Trigramme-Relationnel" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VII.-D%25C3%25A9cagone-de-Trigramme-Relationnel&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw1OoU7p9IzulbWstDOMj5cH">Décagone de Trigramme Relationnel</a></div>
-         <a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Animaux-Politiques-et-Vielle-France" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%25C2%25B7Animaux-Politiques-et-Vielle-France&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw0hXfhJixL0m2uNprmMH5Uc">Animaux Politiques et Vieille France</a>
-         <div><a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7La-Macronie" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%25C2%25B7La-Macronie&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw0m3VV6JqyQnlJ_h8gvT_Tf">La Macronie</a></div>
-      </blockquote>
-      <blockquote style="color:rgb(34,34,34);margin:0px 0px 0px 40px;border:none;padding:0px"><a href="https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Les-Origines-de-FakeLand%E2%80%90Paris" style="color:rgb(17,85,204)" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%25C2%25B7Les-Origines-de-FakeLand%25E2%2580%2590Paris&amp;source=gmail&amp;ust=1727359854468000&amp;usg=AOvVaw3pJuLwpCXP2uvIHdfFJM9t">Les Origines de FakeLand‐Paris</a></blockquote>
-   </div>
-</div>
-</html>
+> [Home](https://github.com/LordGrrr/Cube-Kicker/wiki)  
+> [Scalar Structures](https://github.com/LordGrrr/Cube-Kicker/wiki/II.-Scalar-Structures)  
+> [Core Engine Data Structure](https://github.com/LordGrrr/Cube-Kicker/wiki/III.-A.P.A.-Virtual-Canvas-(CORE))  
+> [Semantic Engine Research](https://github.com/LordGrrr/Cube-Kicker/wiki/V.-Semantic-Engine-Research)  
+> [Annexe](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABAnnexe%C2%BB)  
+> [Trucs en Vrac](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABTrucs-en-Vrac%C2%BB)
+
+
+
+[Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)    
+> [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
+> [...Last news](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news)  
+> [Avant Propos](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos)  
+> [Contre Mesures](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/III.-Contre-Mesures)  
+> [Méthode Bizarre](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/IV.-M%C3%A9thode-Bizarre)  
+> [Questionnement social exempt d'Eugénisme](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/V.-Questionnement-social-exempt-d'Eug%C3%A9nisme)  
+> [Winamax ou la Destruction du buisness de demain](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VI.-Winamax-ou-la-Destruction-du-buisness-de-demain)  
+> [Décagone de Trigramme Relationnel](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VII.-D%C3%A9cagone-de-Trigramme-Relationnel  )  
+> [Animaux Politiques et Vielle France](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Animaux-Politiques-et-Vielle-France)  
+> [La Macronie](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7La-Macronie)
+> [Les Origines de FakeLand‐Paris](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Les-Origines-de-FakeLand%E2%80%90Paris)  
+
+   
     
 # "On s'amuse virtuel mais on s'amuse réel."
 https://www.desmos.com/calculator/qullxqihgr  
