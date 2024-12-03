@@ -43,8 +43,8 @@
 ### Non-Team
 **Leadeuses**:  
 ![foto-16294GUI](https://github.com/user-attachments/assets/b02159bf-8d2a-4804-a2af-073b162f167a)
-+ Alexandra HB dit "La-psycho-thérapeute-toxico-chnouffé"
-+ Melody Kiparletrop dit le bouletDeGreg
++ Alexandra HB dit la "psycho-thérapeute-toxico-chnouffée"
++ Melody Kiparletrop dit le "bouletDeGreg"
 + ...
 
 # "On s'amuse virtuel mais on s'amuse réel."
