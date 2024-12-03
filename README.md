@@ -43,7 +43,7 @@
 ### Non-Team
   
 ![foto-16294GUI](https://github.com/user-attachments/assets/b02159bf-8d2a-4804-a2af-073b162f167a)
-+ **Leadeuses**: Alexandra HB dit la "psycho-thérapeute-toxico-chnouffée"
++ **Leadeuse**: Alexandra HB dit la "psycho-thérapeute-toxico-chnouffée"
 + **Suiveuse**: Melody Kiparletrop dit le "bouletDeGreg"
 + ...
 
