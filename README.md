@@ -35,11 +35,14 @@
 > [La Macronie](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7La-Macronie)
 > [Les Origines de FakeLand‐Paris](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Les-Origines-de-FakeLand%E2%80%90Paris)  
 
-   
+# TEAM (tmp: Nexus 101)
+![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)    
+
+![love](https://github.com/user-attachments/assets/ae764295-c53a-4721-99cc-de501acc1b2a)
     
 # "On s'amuse virtuel mais on s'amuse réel."
 https://www.desmos.com/calculator/qullxqihgr  
-![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)   
+ 
 
   
 ![avt-jean-pierre-petit-8090](https://github.com/LordGrrr/LordGrrr/assets/134517577/925d2cc0-31ee-43f0-8a35-e0a72b65a88a)
