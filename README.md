@@ -1,4 +1,5 @@
 ⚠️ Projet en cours de réalisation.  
+Disclamer: Ce compte n'est pas idéal pour la secte des [Mécréantistes](https://fr.wikipedia.org/wiki/M%C3%A9cr%C3%A9antisme).
 
 [Escape Game Tech Workout](https://github.com/LordGrrr/Escape-Game-tech-workout)
 > [Home](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki)  
@@ -39,13 +40,6 @@
 ![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)    
 
 ![love](https://github.com/user-attachments/assets/ae764295-c53a-4721-99cc-de501acc1b2a)
-
-### Non-Team
-  
-![foto-16294GUI](https://github.com/user-attachments/assets/b02159bf-8d2a-4804-a2af-073b162f167a)
-+ **Leadeuse**: Alexandra HB dit la "psycho-thérapeute-toxico-chnouffée"
-+ **Suiveuse**: Melody Kiparletrop dit le "bouletDeGreg"
-+ ...
 
 # "On s'amuse virtuel mais on s'amuse réel."
 https://www.desmos.com/calculator/qullxqihgr  
