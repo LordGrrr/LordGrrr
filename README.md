@@ -23,7 +23,7 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantist
 
 
 
-[Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)    
+[Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Going private)**
 > [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
 > [...Last news](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news)  
 > [Avant Propos](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos)  
