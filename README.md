@@ -1,7 +1,7 @@
 ⚠️ Projet en cours de réalisation.  
 Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantistes](https://fr.wikipedia.org/wiki/M%C3%A9cr%C3%A9antisme).
 
-[Escape Game Tech Workout](https://github.com/LordGrrr/Escape-Game-tech-workout)
+[Escape Game Tech Workout](https://github.com/LordGrrr/Escape-Game-tech-workout) **(OpenSource)***
 > [Home](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki)  
 > [The Threads of Conscience](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/I.-The-Threads-of-Conscience)  
 > [Géométrie Nexus Spirit](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/II.-G%C3%A9om%C3%A9trie--Nexus-Spirit)    
