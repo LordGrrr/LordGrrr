@@ -13,7 +13,7 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantist
 > [The App](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7The-App) 
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
  
-[Cube-Kicker](https://github.com/LordGrrr/Cube-Kicker)
+[Cube-Kicker](https://github.com/LordGrrr/Cube-Kicker) **(Going private)**
 > [Home](https://github.com/LordGrrr/Cube-Kicker/wiki)  
 > [Scalar Structures](https://github.com/LordGrrr/Cube-Kicker/wiki/II.-Scalar-Structures)  
 > [Core Engine Data Structure](https://github.com/LordGrrr/Cube-Kicker/wiki/III.-A.P.A.-Virtual-Canvas-(CORE))  
