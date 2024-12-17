@@ -121,5 +121,5 @@ credit: https://www.gregadunn.com/category/microetchings/
 ##
 ![Tri-phase drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/f92c7ade-2c2a-4193-af9f-67c0c5c14060)
 
-### Mécréantisme
+### Mécréantiste
 Individu en trouble ayant pour habitude de chier dans la psyché d'autrui au mépris de Conscience.
