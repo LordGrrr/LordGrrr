@@ -1,5 +1,5 @@
 ⚠️ Projet en cours de réalisation.  
-Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantistes](https://github.com/LordGrrr/LordGrrr/blob/main/README.md#m%C3%A9cr%C3%A9antiste).
+Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantistes](https://github.com/LordGrrr#m%C3%A9cr%C3%A9antiste).
 
 🔴 [Escape Game Tech Workout](https://github.com/LordGrrr/Escape-Game-tech-workout) **(OpenSource)**
 > [Home](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki)  
