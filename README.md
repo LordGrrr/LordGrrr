@@ -37,7 +37,7 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantist
 > [Les Origines de FakeLand‐Paris](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Les-Origines-de-FakeLand%E2%80%90Paris)  
 
 # TEAM Nexus 101
-**1**:Paula+**0**:Loran+**1**:Fédé   
+**(1)**:Paula+**(0)**:Loran+**(1)**:Fédé   
 ![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)    
   
 ![love](https://github.com/user-attachments/assets/ae764295-c53a-4721-99cc-de501acc1b2a)
