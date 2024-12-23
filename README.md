@@ -123,4 +123,5 @@ _Premier schéma vu de profil et le second vu d'au dessus._
 ![Tri-phase drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/f92c7ade-2c2a-4193-af9f-67c0c5c14060)
 
 ### Mécréantiste
-Individu en trouble ayant pour habitude de chier dans la psyché d'autrui au mépris de Conscience.
+🇫🇷 Individu en trouble ayant pour habitude de chier dans la psyché d'autrui au mépris de Conscience.
+🇺🇸 A troubled individual who has a habit of preying on the psyche of others without regard for his conscience.
