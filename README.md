@@ -1,7 +1,7 @@
 ⚠️ Projet en cours de réalisation.  
 Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantistes](https://github.com/LordGrrr#m%C3%A9cr%C3%A9antiste).
 
-🟢 [Escape Game Tech Workout](https://github.com/LordGrrr/Escape-Game-tech-workout) **(OpenSource)**
+💚 [Escape Game Tech Workout](https://github.com/LordGrrr/Escape-Game-tech-workout) **(OpenSource)**
 > [Home](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki)  
 > [The Threads of Conscience](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/I.-The-Threads-of-Conscience)  
 > [Géométrie Nexus Spirit](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/II.-G%C3%A9om%C3%A9trie--Nexus-Spirit)    
@@ -13,7 +13,7 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantist
 > [The App](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7The-App) 
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
  
-🔴 [Cube-Kicker](https://github.com/LordGrrr/Cube-Kicker) **(Going private)**
+🟥 [Cube-Kicker](https://github.com/LordGrrr/Cube-Kicker) **(Going private)**
 > [Home](https://github.com/LordGrrr/Cube-Kicker/wiki)  
 > [Scalar Structures](https://github.com/LordGrrr/Cube-Kicker/wiki/II.-Scalar-Structures)  
 > [Core Engine Data Structure](https://github.com/LordGrrr/Cube-Kicker/wiki/III.-A.P.A.-Virtual-Canvas-(CORE))  
@@ -23,7 +23,7 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantist
 
 
 
-🔴 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
+🟢 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
 > [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
 > [...Last news](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news)  
 > [Avant Propos](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos)  
