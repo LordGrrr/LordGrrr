@@ -14,7 +14,6 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des Mécréantiste
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
  
 ***Cube Kicker is now private***  
-![BlowIndustry Project small](https://github.com/user-attachments/assets/c98da6d5-2e29-40f0-9e0c-121452bc6b89)
 
 🟢 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
 > [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
@@ -32,8 +31,6 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des Mécréantiste
 # TEAM
 SECU  
 ![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)    
-DRH  
-![federation_of_my_heart](https://github.com/user-attachments/assets/655c0db8-dd4e-49bd-a56b-669fa3692d9f)
 
 
 
