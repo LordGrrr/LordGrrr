@@ -30,8 +30,13 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des Mécréantiste
 > [Les Origines de FakeLand‐Paris](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Les-Origines-de-FakeLand%E2%80%90Paris)  
 
 # TEAM
+SECU  
 ![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)    
+DRH  
 ![federation_of_my_heart](https://github.com/user-attachments/assets/655c0db8-dd4e-49bd-a56b-669fa3692d9f)
+
+DM 
+
 
   
 # "On s'amuse virtuel mais on s'amuse réel."
