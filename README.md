@@ -1,5 +1,5 @@
 ⚠️ Projet en cours de réalisation.  
-Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantistes](https://github.com/LordGrrr#m%C3%A9cr%C3%A9antiste).
+Disclamer: Ce compte Githubien n'est pas idéal pour la secte des Mécréantistes.
 
 🟢 [Escape Game Tech Workout](https://github.com/LordGrrr/Escape-Game-tech-workout) **(OpenSource)**
 > [Home](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki)  
@@ -115,6 +115,4 @@ _Premier schéma vu de profil et le second vu d'au dessus._
 ##
 ![Tri-phase drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/f92c7ade-2c2a-4193-af9f-67c0c5c14060)
 
-### Mécréantiste
-🇫🇷 Un individu troublé qui a l’habitude de s’attaquer à la psyché des autres sans tenir compte de sa conscience.    
-🇺🇸 A troubled individual who has a habit of preying on the psyche of others without regard for his conscience.
+
