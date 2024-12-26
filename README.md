@@ -79,8 +79,9 @@ _Premier schéma vu de profil et le second vu d'au dessus._
 ![EGO drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/7ff53e8a-def2-4678-94ea-0d0cd9d6698c)
 
 
-##
-![Canvas_A P A drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/c3ff7d72-445a-4efd-8669-beff1e154826)
+## Cube_Kicker
+![101 drawio](https://github.com/user-attachments/assets/4247ad38-b436-41e8-b1d9-7093e32a0a9d)  
+![Canvas_A P A drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/c3ff7d72-445a-4efd-8669-beff1e154826)  
 
 ##
 ![algo-reduction didactic](https://github.com/LordGrrr/LordGrrr/assets/134517577/9c4fd0cb-e21a-4add-8d4c-8cc3cb6e0966)
