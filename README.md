@@ -13,7 +13,7 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des [Mécréantist
 > [The App](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7The-App) 
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
  
-Cube Kicker is now private  
+***Cube Kicker is now private***  
 ![BlowIndustry Project small](https://github.com/user-attachments/assets/c98da6d5-2e29-40f0-9e0c-121452bc6b89)
 
 🟢 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
