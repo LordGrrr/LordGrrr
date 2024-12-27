@@ -15,7 +15,7 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des Mécréantiste
  
 ***Cube Kicker is now private***  
 
-🟢 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
+🔴 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
 > [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
 > [...Last news](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news)  
 > [Avant Propos](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos)  
