@@ -53,6 +53,7 @@ https://www.desmos.com/calculator/qullxqihgr
 * **Arthur C. Clarke**
 * **Franck Herbet**
 * **A. E. von Vogt**
+* **Orson Scott Card** _(special thx 2 Domique la maman d'Éole)_
 ##
 ![weAreAllAstronauts](https://github.com/LordGrrr/LordGrrr/assets/134517577/47bb8334-4c52-48d8-a89b-72871bfbb1dd)  
 [Blue Dot VI](https://youtu.be/u1Bh25ftq90?feature=shared)  
