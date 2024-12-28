@@ -31,13 +31,10 @@ Disclamer: Ce compte Githubien n'est pas idéal pour la secte des Mécréantiste
 # TEAM
 **SECU**  
 ![cIloran](https://github.com/LordGrrr/LordGrrr/assets/134517577/f9bb4666-e515-406c-9a8a-5c4dfb14c367)    
-
-
-
-  
+***  
 # "On s'amuse virtuel mais on s'amuse réel."
 https://www.desmos.com/calculator/qullxqihgr  
- 
+*** 
 
   
 ![avt-jean-pierre-petit-8090](https://github.com/LordGrrr/LordGrrr/assets/134517577/925d2cc0-31ee-43f0-8a35-e0a72b65a88a)
