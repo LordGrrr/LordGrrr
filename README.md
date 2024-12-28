@@ -53,7 +53,7 @@ https://www.desmos.com/calculator/qullxqihgr
 
 # Ze Daddies of the Futur
 * **Isaac Asimov**
-* ** Arthur C. Clarke**
+* **Arthur C. Clarke**
 * **Franck Herbet**
 * **A. E. von Vogt**
 ##
