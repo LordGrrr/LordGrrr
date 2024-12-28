@@ -50,6 +50,12 @@ https://www.desmos.com/calculator/qullxqihgr
 ##
 ![download](https://github.com/LordGrrr/LordGrrr/assets/134517577/beaaccb8-cab4-4eb4-b3ea-9822260aca5b)  
 [**Staley Kubrick**](https://en.wikipedia.org/wiki/Stanley_Kubrick)  and  [**Arthur C. Clarke**](https://en.wikipedia.org/wiki/Arthur_C._Clarke)  
+
+# Ze Daddies of the Futur
+* **Isaac Asimov**
+* ** Arthur C. Clarke**
+* **Franck Herbet**
+* **A. E. von Vogt**
 ##
 ![weAreAllAstronauts](https://github.com/LordGrrr/LordGrrr/assets/134517577/47bb8334-4c52-48d8-a89b-72871bfbb1dd)  
 [Blue Dot VI](https://youtu.be/u1Bh25ftq90?feature=shared)  
