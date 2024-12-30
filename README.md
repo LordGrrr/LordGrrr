@@ -19,7 +19,7 @@
 > [...Last news](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news)  
 > [Avant Propos](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos)  
 > [Contre Mesures](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/III.-Contre-Mesures)  
-> [Méthode Bizarre](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/IV.-M%C3%A9thode-Bizarre)
+> [Méthode Bizarre](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/IV.-M%C3%A9thode-Bizarre)  
 > [Pub](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/Pub)  
 > [Questionnement social exempt d'Eugénisme](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/V.-Questionnement-social-exempt-d'Eug%C3%A9nisme)  
 > [Winamax ou la Destruction du buisness de demain](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VI.-Winamax-ou-la-Destruction-du-buisness-de-demain)  
