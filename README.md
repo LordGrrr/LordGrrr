@@ -12,7 +12,7 @@
 > [The App](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7The-App) 
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
  
-🟠 ***Cube Kicker is now private***  
+🟠 [***Cube Kicker is now private***](https://github.com/LordGrrr/Cube-Kicker)  
 
 🟢 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
 > [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
