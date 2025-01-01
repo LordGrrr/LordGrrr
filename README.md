@@ -13,6 +13,12 @@
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
  
 🟠 [***Cube Kicker is now private***](https://github.com/LordGrrr/Cube-Kicker)  
+> [Home](https://github.com/LordGrrr/Cube-Kicker/wiki)  
+> [Scalar Structures](https://github.com/LordGrrr/Cube-Kicker/wiki/II.-Scalar-Structures)  
+> [Core Engine Data Structure](https://github.com/LordGrrr/Cube-Kicker/wiki/III.-A.P.A.-Virtual-Canvas-(CORE))  
+> [Semantic Engine Research](https://github.com/LordGrrr/Cube-Kicker/wiki/V.-Semantic-Engine-Research)  
+> [Annexe](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABAnnexe%C2%BB)  
+> [Trucs en Vrac](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABTrucs-en-Vrac%C2%BB)
 
 🟢 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
 > [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
