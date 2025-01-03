@@ -20,7 +20,7 @@
 > [Annexe](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABAnnexe%C2%BB)  
 > [Trucs en Vrac](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABTrucs-en-Vrac%C2%BB)
 
-🔴 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
+🟢 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
 > [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
 > [...Last news](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news)  
 > [Avant Propos](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos)  
