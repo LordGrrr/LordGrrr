@@ -9,7 +9,7 @@
 > [Art Étrange &amp; Méthode Bizarre](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/V.-Art-%C3%89trange-&amp;-M%C3%A9thode-Bizarre)  
 > [La Psycho-kinétique](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/VI.-La-Psycho%E2%80%90kin%C3%A9tique)  
 > [SECURITY](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7SECURITY)  
-> [The App](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7The-App) 
+> [The App](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7The-App)   
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
  
 🟠 [***Cube Kicker***](https://github.com/LordGrrr/Cube-Kicker)  
