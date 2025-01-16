@@ -21,19 +21,6 @@
 > [Annexe](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABAnnexe%C2%BB)  
 > [Trucs en Vrac](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABTrucs-en-Vrac%C2%BB)
 
-🟢 [Bleeding in Paris](https://github.com/LordGrrr/Bleeding_in_Paris)  **(Public)**
-> [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
-> [...Last news](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news)  
-> [Avant Propos](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos)  
-> [Contre Mesures](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/III.-Contre-Mesures)  
-> [Méthode Bizarre](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/IV.-M%C3%A9thode-Bizarre)  
-> [Pub](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/Pub)  
-> [Questionnement social exempt d'Eugénisme](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/V.-Questionnement-social-exempt-d'Eug%C3%A9nisme)  
-> [Winamax ou la Destruction du buisness de demain](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VI.-Winamax-ou-la-Destruction-du-buisness-de-demain)  
-> [What-the-Duck](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VII.-What-the-Duck)  
-> [Animaux Politiques et Vielle France](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Animaux-Politiques-et-Vielle-France)  
-> [La Macronie](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7La-Macronie)
-> [Les Origines de FakeLand‐Paris](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Les-Origines-de-FakeLand%E2%80%90Paris)  
 
 # TEAM
 **SECU**  
