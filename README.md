@@ -12,7 +12,7 @@
 > [The App](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%C2%B7The-App)   
 > [Annexe](https://github.com/LordGrrr/Escape-Game-tech-workout/wiki/%E2%96%A0-Annexe)  
  
-🟠 [***Cube Kicker***](https://github.com/LordGrrr/Cube-Kicker)  
+🟢 [***Cube Kicker***](https://github.com/LordGrrr/Cube-Kicker)  
 > [Home](https://github.com/LordGrrr/Cube-Kicker/wiki)  
 > [Scalar Structures](https://github.com/LordGrrr/Cube-Kicker/wiki/II.-Scalar-Structures)  
 > [A.P.A. Virtual-Canvas-(CORE)](https://github.com/LordGrrr/Cube-Kicker/wiki/III.-A.P.A.-Virtual-Canvas-(CORE))  
@@ -21,6 +21,19 @@
 > [Annexe](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABAnnexe%C2%BB)  
 > [Trucs en Vrac](https://github.com/LordGrrr/Cube-Kicker/wiki/%C2%ABTrucs-en-Vrac%C2%BB)
 
+🟢 [*** Bleeding in Paris***](https://github.com/LordGrrr/Bleeding_in_Paris)
+> [Home](https://github.com/LordGrrr/Bleeding_in_Paris/wiki)  
+> [...Last news](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/...Last-news)  
+> [Avant Propos](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/II.-Avant-Propos)  
+> [Contre Mesures](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/III.-Contre-Mesures)  
+> [Méthode Bizarre](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/IV.-M%C3%A9thode-Bizarre)  
+> [Pub](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/Pub)  
+> [Questionnement social exempt d'Eugénisme](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/V.-Questionnement-social-exempt-d'Eug%C3%A9nisme)  
+> [Winamax ou la Destruction du business de demain](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VI.-Winamax-ou-la-Destruction-du-buisness-de-demain)  
+> [What the Duck](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/VII.-What-the-Duck)  
+> [Animaux Politiques et Vieille France](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Animaux-Politiques-et-Vielle-France)  
+> [La Macronie](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7La-Macronie)  
+> [Les Origines de FakeLand‐Paris](https://github.com/LordGrrr/Bleeding_in_Paris/wiki/%C2%B7Les-Origines-de-FakeLand%E2%80%90Paris)  
 
 # TEAM
 **SECU**  
