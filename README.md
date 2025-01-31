@@ -115,4 +115,5 @@ _Premier schéma vu de profil et le second vu d'au dessus._
 ##
 ![Tri-phase drawio](https://github.com/LordGrrr/LordGrrr/assets/134517577/f92c7ade-2c2a-4193-af9f-67c0c5c14060)
 
-
+##
+![Scalair de la mode drawio](https://github.com/user-attachments/assets/bdc6412d-74c6-4272-9f74-9a79c6ae1b49)
